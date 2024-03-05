@@ -1,0 +1,10 @@
+		
+4.2. Funciones matemáticas (Sumar.Si. Conjunto, Redondear, Truncar, Sumaproducto, Residuo)	
+				
+4.3. Funciones estadísticas (Promedio. Si.Conjunto, Contar. Si.Conjunto, BDSuma, BDPromedio, BDProducto).
+					
+4.4. Funciones de fecha (Hoy, Ahora, Fecha, DiaSem, Mes, Día, Año, Sifecha).					
+					
+4.6. Funciones de búsqueda y referencia (Buscarv, Buscarh, Buscar, Elegir, Indice, Columna, Fila, Celda, Coincidir).
+
+
